@@ -1,0 +1,6 @@
+SED505 design pattens
+SEA500 Introduction to data mining 
+SED500 Introduction to software engineering
+SEH500 Microprocessors 
+BTS535 software project management
+SEE500 system requiremnet engineering
