@@ -1,4 +1,4 @@
-SED505 design pattens
+SED505 design patterns
 SEA500 Introduction to data mining 
 SED500 Introduction to software engineering
 SEH500 Microprocessors 
